@@ -1,0 +1,25 @@
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+                              
+Number of observations 433    
+Scope                  180.643
+Xmin                    21.000
+Xmax                    63.000
+Ymin                     3.699
+Ymax                     8.000
+
+                  cr_fdh  ce_fdh
+Ceiling zone       1.000   2.000
+Effect size        0.006   0.011
+# above            0       0    
+c-accuracy       100%    100%   
+Fit               50.0%  100%   
+                                
+Slope              0.500        
+Intercept         -3.500        
+Abs. ineff.      178.643 178.643
+Rel. ineff.       98.893  98.893
+Condition ineff.  95.238  95.238
+Outcome ineff.    76.750  76.750
+
